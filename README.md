@@ -30,7 +30,7 @@
 - スキルチェックリスト(ver1)
   - Published Date: Nov 20, 2015
   - Press Release: https://prtimes.jp/main/html/rd/p/000000008.000007312.html
-  - File name: skillcheck.pdf
+  - File name: old_skillcheck.pdf (※誤解しやすい為リネームした)
   - 項目数
     - データサイエンス力: 180
     - データエンジニア力: 119
