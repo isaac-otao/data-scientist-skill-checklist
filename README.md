@@ -1,4 +1,4 @@
-# data-scientist-skill-checklist
+# データサイエンティストスキルチェックリスト（データ化）
 一般社団法人データサイエンティスト協会(The Japan DataScientist Society) スキル委員会が公開した「データサイエンティストスキルチェックリスト）をデータ化したものです。
 - 一般社団法人データサイエンティスト協会 http://www.datascientist.or.jp/
 
@@ -12,12 +12,10 @@
     - データエンジニア力: 129
     - ビジネス力: 100
     - 合計: 457
-
-## Format
-### Original PDF
-- File name: 2017-171025063816.pdf
+- Original PDF: 2017-171025063816.pdf
   - 上記SlideShareのページからDLしたもの。
 
+## Format
 ### EXCEL
 - File name: data-scientist-skill-checklist-ver2-20171025.xlsx
 
